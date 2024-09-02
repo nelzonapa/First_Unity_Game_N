@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: cd812230-4827-4e77-a3e5-5d50ca7f4253
+  cloudProjectId: b5d6960e-91ad-4670-b716-16355e9bca2e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Learning_Game
+  projectName: First_Unity_Game_N
   organizationId: napazaa
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
